@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">Hey 👋</h2>
 
-<!--
-**neoapps-dev/neoapps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neoapps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="neoapps-dev" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+NEOAPPS;I+live+in+Iraq;I+LOVE+Code&center=true&vCenter=true" alt="Typing SVG">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/NEOAPPS_MUSIC">Contact me on Telegram</a>
+</p>
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=androidstudio,mysql,firebase,python,java,php,ts,js,css,html,dart,arch,dotnet,go,godot,supabase,vscode,visualstudio,npm,linux,flutter,c,cpp,cs,gtk" alt="Skills Icons" />
+  </a>
+</p>
