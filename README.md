@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NEOAPPS_MUSIC">Contact me on Telegram</a>
+  Contact me on <a href="https://t.me/NEOAPPS_MUSIC">Telegram</a>
+  or, [Discord](https://discord.com/users/962311614680412181)
 </p>
 
 <h2 align="center">Skills</h2>
