@@ -12,7 +12,7 @@
 
 <p align="center">
   Contact me on <a href="https://t.me/NEOAPPS_MUSIC">Telegram</a>
-  or, [Discord](https://discord.com/users/962311614680412181)
+  or, <a href="https://discord.com/users/962311614680412181">Discord</a>
 </p>
 
 <h2 align="center">Skills</h2>
