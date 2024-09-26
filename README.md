@@ -13,7 +13,8 @@
 <p align="center">
   Contact me on <a href="https://t.me/NEOAPPS_MUSIC">Telegram</a>
   or, <a href="https://discord.com/users/962311614680412181">Discord</a>
-  [Top Langs 🤓🗿](https://github-readme-stats.vercel.app/api/top-langs?username=neoapps-dev&show_icons=true&theme=tokyonight&layout=compact)
+  
+  ![Top Langs 🤓🗿](https://github-readme-stats.vercel.app/api/top-langs?username=neoapps-dev&show_icons=true&theme=tokyonight&layout=compact)
 </p>
 
 <h2 align="center">Skills</h2>
