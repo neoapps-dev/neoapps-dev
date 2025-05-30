@@ -13,7 +13,6 @@
                                               |   ❯ mail -s "Hello from.." asd22.info@gmail.com
                                               |   ❯ xdg-open "https://t.me/GNU_L"
                                               |   ❯ xdg-open "https://discord.com/users/962311614680412181"
-                                              |
 ```                                       
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neoapps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="neoapps-dev" />
