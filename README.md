@@ -1,20 +1,22 @@
-<h2 align="center">Hey 👋</h2>
-<h2 align="center">I use arch btw</h2>
+```
+                                              |
+                                              |   ❯ echo $USER
+.........    Escape the 'Gates' of Hell       |   neo
+  `:::'                  .......  ......      |  
+   :::  *                  `::.    ::'        |   ❯ uname -o
+   ::: .::  .:.::.  .:: .::  `::. :'          |   GNU/Linux
+   :::  ::   ::  ::  ::  ::    :::.           |  
+   ::: .::. .::  ::.  `::::. .:'  ::.         |   ❯ whoami    
+...:::.....................::'   .::::..      |   NEOAPPS
+        -- William E. Roadcap                 |
+                                              |   # Reach me out using... 
+                                              |   ❯ mail -s "Hello from.." asd22.info@gmail.com
+                                              |   ❯ xdg-open "https://t.me/GNU_L"
+                                              |   ❯ xdg-open "https://discord.com/users/962311614680412181"
+                                              |
+```                                       
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neoapps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="neoapps-dev" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+NEOAPPS;I+live+in+Iraq;I+LOVE+Code&center=true&vCenter=true" alt="Typing SVG">
-  </a>
-</p>
-
-<p align="center">
-  Contact me on <a href="https://t.me/NEOAPPS_MUSIC">Telegram</a>
-  or, <a href="https://discord.com/users/962311614680412181">Discord</a>
-  
-  ![Top Langs 🤓🗿](https://github-readme-stats.vercel.app/api/top-langs?username=neoapps-dev&show_icons=true&theme=tokyonight&layout=compact)
 </p>
 
 <h2 align="center">Skills</h2>
