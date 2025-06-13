@@ -1,7 +1,7 @@
 ```
                                               |
-                                              |   ❯ echo $USER
-.........    Escape the 'Gates' of Hell       |   neo
+                                              |   ❯ echo $FAVORITE_LANGUAGE
+.........    Escape the 'Gates' of Hell       |   Rust
   `:::'                  .......  ......      |  
    :::  *                  `::.    ::'        |   ❯ uname -o
    ::: .::  .:.::.  .:: .::  `::. :'          |   GNU/Linux
