@@ -7,8 +7,8 @@
    ::: .::  .:.::.  .:: .::  `::. :'          |   GNU/Linux
    :::  ::   ::  ::  ::  ::    :::.           |  
    ::: .::. .::  ::.  `::::. .:'  ::.         |   ❯ whoami    
-...:::.....................::'   .::::..      |   NEOAPPS
-        -- William E. Roadcap                 |
+...:::.....................::'   .::::..      |   neo
+        -                                     |
                                               |   # Reach me out using... 
                                               |   ❯ mail -s "Hello from.." neo@obsidianos.xyz
                                               |   ❯ xdg-open "https://t.me/GNU_L"
