@@ -8,7 +8,7 @@
    :::  ::   ::  ::  ::  ::    :::.           |  
    ::: .::. .::  ::.  `::::. .:'  ::.         |   ❯ whoami    
 ...:::.....................::'   .::::..      |   neo
-        -                                     |
+                                              |
                                               |   # Reach me out using... 
                                               |   ❯ mail -s "Hello from.." neo@obsidianos.xyz
                                               |   ❯ xdg-open "https://t.me/GNU_L"
@@ -22,6 +22,6 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=rust,androidstudio,mysql,firebase,python,java,php,ts,js,css,html,dart,arch,dotnet,go,godot,supabase,vscode,visualstudio,npm,linux,flutter,c,cpp,cs,gtk" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=rust,androidstudio,mysql,firebase,python,java,php,ts,js,css,html,dart,arch,dotnet,go,godot,supabase,vscode,visualstudio,npm,linux,flutter,c,cpp,cs,gtk,kotlin,react,qt,tauri" alt="Skills Icons" />
   </a>
 </p>
