@@ -11,7 +11,6 @@
                                               |
                                               |   # Reach me out using... 
                                               |   ❯ mail -s "Hello from.." neo@obsidianos.xyz
-                                              |   ❯ xdg-open "https://t.me/GNU_L"
                                               |   ❯ xdg-open "https://discord.com/users/962311614680412181"
 ```                                       
 <p align="center">
