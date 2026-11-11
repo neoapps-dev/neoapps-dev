@@ -17,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=neoapps-dev&label=Profile%20views&color=0e75b6&style=flat" alt="neoapps-dev" />
 </p>
 
+[hamzadotjs](https://github.com/hamzadotjs) is my partner in crime
+
 <h2 align="center">Skills</h2>
 
 <p align="center">
